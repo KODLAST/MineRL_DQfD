@@ -24,7 +24,7 @@ You will likely encounter an issue with the installation of MineRL if you are on
 
 ##  File Structure
 <pre> <code> 
-  Project_DRL_05_40/ 
+  MineRL_DQfD/ 
           ├── DQfD/ 
                 └── main.py # DQfD file algorithm
           ├── Baseline/ 
