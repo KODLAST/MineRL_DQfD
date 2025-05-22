@@ -25,9 +25,9 @@ You will likely encounter an issue with the installation of MineRL if you are on
 ##  File Structure
 <pre> <code> 
   Project_DRL_05_40/ 
-          ├── forger_torch/ 
+          ├── DQfD/ 
                 └── main.py # DQfD file algorithm
-          ├── stand_alone/ 
+          ├── Baseline/ 
                 └── BC_plus_script.py # BC algorithm
                 └── RL_plus_script.py # PPO algorithm
 </code> </pre>
