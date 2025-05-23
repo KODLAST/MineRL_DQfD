@@ -1,3 +1,9 @@
+Made by : 
+-  Kittichet Arriyathanasak Student No. 64340500005
+-  Punyawat  Prachongkij    Student No. 64340500040
+
+---
+
 # MineRL using Deep Q Learning from Demonstration
 This repo is created for an experiment comparing Deep Q Learning from Demonstration, Behavior Cloning (BC), and Proximal Policy Optimization (PPO) Training with MineRLTreeChop_v0 gym environments.
 
