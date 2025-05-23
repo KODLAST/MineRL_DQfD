@@ -32,6 +32,8 @@ You will likely encounter an issue with the installation of MineRL if you are on
                 └── RL_plus_script.py # PPO algorithm
 </code> </pre>
 
+# Full Report on mineRL _DQfD_Report.ipynb
+
 ## Result
 <div style="text-align: center;">
 
